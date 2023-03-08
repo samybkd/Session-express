@@ -17,3 +17,6 @@ ceci est un repo content un front et back
 -  express session pour gerer les session
 -  installer le node modules 'npm install'
 -  pour lancer le serveur 'cd server' 'node index.js'
+
+#NOTE
+an improvement would be to use jwt tokens to allow users who already logged in to be directly authetificated even after closing the browser also to add a ssession store to save sessions in case of server failure
