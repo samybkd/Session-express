@@ -4,10 +4,10 @@ ceci est un repo content un front et back
 
 # FRONT
 
--React
--package manager yarn
-(installer yarn pour lancer le serveur et puis lancer 'yarn' ou 'yarn install' pour installer les dependences)
--pour lancer le server front 'cd client' et 'yarn dev'
+-  React
+-  package manager yarn
+   (installer yarn pour lancer le serveur et puis lancer 'yarn' ou 'yarn install' pour installer les dependences)
+-  pour lancer le server front 'cd client' et 'yarn dev'
 
 # BACK
 
