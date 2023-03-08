@@ -1,0 +1,41 @@
+.loginDiv {
+	background-color: aqua;
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url("../assets/seal.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.formDiv {
+	padding: 30px 50px;
+	box-shadow: 10px 5px 5px gray;
+	background-color: aliceblue;
+	display: flex;
+	flex-direction: column;
+	gap: 35px;
+	border-radius: 10px;
+}
+.inputDiv {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+}
+.input {
+	height: 30px;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+.button {
+	background-color: #02a137;
+}
+.errorMessage {
+	background-color: #f08080;
+	padding: 0px 20px;
+	border-radius: 8px;
+}
+.error {
+	color: red;
+}

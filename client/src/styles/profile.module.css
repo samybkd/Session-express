@@ -1,0 +1,36 @@
+.mainDiv {
+	background-color: aliceblue;
+	height: 90vh;
+	width: 98vw;
+	padding: 30px;
+}
+.fieldsDiv {
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+}
+.container {
+	display: flex;
+	flex-direction: row;
+	width: 80%;
+	justify-content: space-between;
+}
+.info {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: 20px;
+}
+.detailText {
+	font-size: 20px;
+}
+.btnDiv {
+	margin-top: 80px;
+	width: 80%;
+	display: flex;
+	justify-content: end;
+}
+.btn {
+	background-color: #b23b3b;
+	padding: 0 20px;
+}
